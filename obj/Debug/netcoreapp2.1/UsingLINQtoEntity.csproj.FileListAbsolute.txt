@@ -1,0 +1,24 @@
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.deps.json
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.json
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.dev.json
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csprojAssemblyReference.cache
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfoInputs.cache
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfo.cs
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csproj.CoreCompileInputs.cache
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+C:\20-610\20487D-Developing Microsoft Azure and Web Services\20487D-Developing-Microsoft-Azure-and-Web-Services-master\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.genruntimeconfig.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.deps.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.runtimeconfig.dev.json
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\bin\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csprojAssemblyReference.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfoInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.AssemblyInfo.cs
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.csproj.CoreCompileInputs.cache
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.dll
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.pdb
+C:\20-610\20487D-DevelopingMicrosoftAzure&WebServices\20487D\AllFiles\Mod02\DemoFiles\UsingLINQtoEntities\Starter\obj\Debug\netcoreapp2.1\UsingLINQtoEntity.genruntimeconfig.cache
